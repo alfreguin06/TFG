@@ -1,0 +1,4 @@
+Plotted to 'C:\Users\gonza\OneDrive\Escritorio\TFG ALFREDO\KiKad TFG_2-F_Cu.pdf'.
+Plotted to 'C:\Users\gonza\OneDrive\Escritorio\TFG ALFREDO\KiKad TFG_2-B_Cu.pdf'.
+Info: Done.
+Info: Done.
